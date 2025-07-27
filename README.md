@@ -3,7 +3,7 @@
 💡 Currently Exploring UI/UX and frontend dev<br/>
 🤖 Interested in game designing and animation<br />
 🚀 Love to work in the game dev & design industry<br/>
-🧩 My linked in profile(https://www.linkedin.com/in/aashishadhitya/)
+🧩 My Linkedin profile(https://www.linkedin.com/in/aashishadhitya/)
 
 
 ## 🌐 Socials:
