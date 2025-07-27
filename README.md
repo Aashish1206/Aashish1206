@@ -1,8 +1,8 @@
 ## Hi, I'm Aashish Adhitya!! ✨
-🧠 Computer science student at S.A. ENGINEERING COLLEGE<br/>
-💡 Currently Exploreing WEb Development<br/>
-🤖 Interseted in Artificial Intelligence and Machine Learning [AIML]<br />
-🚀 Love to work in Space agencies<br/>
+🧠 Computer science student at S A ENGINEERING COLLEGE<br/>
+💡 Currently Exploring UI/UX and frontend dev<br/>
+🤖 Interested in game designing and animation<br />
+🚀 Love to work in the game dev & design industry<br/>
 🧩 My linked in profile(https://www.linkedin.com/in/aashishadhitya/)
 
 
